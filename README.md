@@ -84,8 +84,6 @@ My goal is to help organizations move from data to confident decision-making.
 
 ---
 
----
-
 ## 🤝 Let’s Connect
 
 
