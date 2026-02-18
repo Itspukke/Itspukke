@@ -87,7 +87,7 @@ My goal is to help organizations move from data to confident decision-making.
 ## 🤝 Let’s Connect
 
 
-- 💼 LinkedIn: in/ tshedza-tshipuke-468516119
+- 💼 LinkedIn: www.linkedin.com/in/tshedza-tshipuke-468516119
 - 📧 Email: tshedzatshipuke5@gmail.com
 
 Let’s build data-driven solutions that improve business performance.
