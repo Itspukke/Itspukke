@@ -84,4 +84,13 @@ My goal is to help organizations move from data to confident decision-making.
 
 ---
 
-📫 Open to collaboration, feedback, and growth opportunities.
+---
+
+## 🤝 Let’s Connect
+
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link
+- 📧 Email: tshedzatshipuke5@gmail.com
+
+Let’s build data-driven solutions that improve business performance.
+
