@@ -53,10 +53,10 @@ Executive Power BI dashboard analyzing:
 - KPI Calculation
 - Business Performance Evaluation
 
-### 📈 Sales & Customer Analytics Projects
-- Data Cleaning with Python
-- Structured Data Modeling
-- Insight-to-Recommendation Reporting
+### 🏦 Bank Loan Performance & Risk Analytics
+-Data Extraction & KPI Validation with SQL
+-Financial Data Modeling (Star Schema + Date Table)
+-Risk Segmentation & Executive Dashboard Reporting
 
 ---
 
