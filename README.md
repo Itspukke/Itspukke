@@ -54,9 +54,10 @@ Executive Power BI dashboard analyzing:
 - Business Performance Evaluation
 
 ### 🏦 Bank Loan Performance & Risk Analytics
--Data Extraction & KPI Validation with SQL
--Financial Data Modeling (Star Schema + Date Table)
--Risk Segmentation & Executive Dashboard Reporting
+- Data Extraction & KPI Validation with SQL
+- Financial Data Modeling (Star Schema + Date Table)
+- Risk Segmentation & Executive Dashboard Reporting
+  
 
 ---
 
